@@ -253,7 +253,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
-  jekyll (~> 3.7.3)
+  jekyll (~> 3.7.4)
   jekyll-textile-converter
   midnight
   tzinfo-data
