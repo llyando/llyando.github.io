@@ -28,14 +28,12 @@ Originally from Sacramento California Christian moved to Massachusetts in 2016 t
 
 
 ### Professional Affiliations
-- [Institute of Electrical and Electronics Engineers](https://ieee.org) (IEEE), Member
+- [IEEE](https://ieee.org), Member (Since 2016)
+- [IEEE RAS Northeastern](https://web.northeastern.edu/ieee-ras/), Member (Since 2019)
 
 
 ### Personal Links
 [![LinkedIn]({{ site.url }}/assets/images/links/linkedin_30x30.png)](https://www.http://linkedin.com/in/christian-hardy) [![Github]({{ site.url }}/assets/images/links/github_30x30.png)](https://github.com/llyando/)
-
-
-A short [bio][bio] about me.
 
 
 [bio]: http://www.thisismikekane.com/bio_hardy.php
