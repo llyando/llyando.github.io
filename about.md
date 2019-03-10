@@ -5,11 +5,11 @@ title: About
 permalink: /about/
 ---
 
-Bachelor's Student
-Department of Electrical and Computer Engineering
-Northeastern University
-Boston, MA 02115
-[hardy.ch@husky.neu.edu](mailto:hardy.ch@husky.neu.edu])
+Bachelor's Student <br>
+Department of Electrical and Computer Engineering <br>
+Northeastern University <br>
+Boston, MA 02115 <br>
+[hardy.ch@husky.neu.edu](mailto:hardy.ch@husky.neu.edu]) <br>
 
 
 ### Biography
