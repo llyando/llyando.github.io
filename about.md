@@ -5,11 +5,11 @@ title: About
 permalink: /about/
 ---
 
-Bachelor's Student\
-Department of Electrical and Computer Engineering\
-Northeastern University\
-Boston, MA 02115\
-[{{ site.email }}](mailto:{{ site.email }}])\
+Bachelor's Student <br>
+Department of Electrical and Computer Engineering <br>
+Northeastern University <br>
+Boston, MA 02115 <br>
+[{{ site.email }}](mailto:{{ site.email }}]) <br>
 
 ### Biography
 Christian Hardy is heading toward a Bachelor's in [Electrical Engineering](http://www.ece.neu.edu/degrees/electrical-engineering-bs) with a minor in [Biomedical Engineering](http://www.ece.neu.edu/degrees/biomedical-engineering-minor) from [Northeastern University](http://www.neu.edu/). He worked with [Prof. Michael Kane](http://www.civ.neu.edu/people/kane-michael) and [Kunind Sharma](https://www.linkedin.com/in/kunindsharma) over Summer 2018 to research different hardware/software packages and their viability for human-in-the-loop Energy Management Systems in the [ABLE Lab](https://github.com/NEU-ABLE-LAB).
