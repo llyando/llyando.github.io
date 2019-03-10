@@ -33,7 +33,6 @@ Originally from Sacramento California Christian moved to Massachusetts in 2016 t
 
 ### Personal Links
 [![LinkedIn](img/links/linkedin_30x30.png)](https://www.http://linkedin.com/in/christian-hardy) [![Github](img/links/github_30x30.png)](https://github.com/llyando/)
-ng)](https://github.com/llyando/)
 
 
 A short [bio][bio] about me.
