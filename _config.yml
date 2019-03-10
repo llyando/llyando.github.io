@@ -38,10 +38,6 @@ defaults:
         layout: "post"
         author: Christian A. Hardy
         permalink: /:categories/:title
-        
-include:
-  - "_assets"
-
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
